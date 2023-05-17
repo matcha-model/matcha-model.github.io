@@ -1,1 +1,1 @@
-Website for Do As I Can, Not As I Say: Grounding Language in Robotic Affordances
+Website for "Chat with the Environment: Interactive Multimodal Perception using Large Language Models"
